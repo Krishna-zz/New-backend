@@ -1,14 +1,14 @@
 {
   "name": "new-backend-project",
   "version": "1.0.0",
-  "description": "This is new beggining",
+  "description": "ab hoga comeback ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "don"
+    "comeback"
   ],
-  "author": "Krishna Gunjal",
+  "author": "Krishna the only one",
   "license": "ISC"
 }
